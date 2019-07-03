@@ -1,0 +1,1089 @@
+{
+  "version": "1.14.8.0",
+  "date": 1562187562508,
+  "Conf": {
+    "Redirect to HTTPS": true,
+    "JSON Index": true,
+    "Use 4chan X Catalog": true,
+    "Index Refresh Notifications": false,
+    "Follow Cursor": true,
+    "Open Threads in New Tab": false,
+    "External Catalog": false,
+    "Catalog Links": false,
+    "Announcement Hiding": true,
+    "Desktop Notifications": true,
+    "404 Redirect": true,
+    "Archive Report": true,
+    "Exempt Archives from Encryption": true,
+    "Keybinds": true,
+    "Time Formatting": true,
+    "Relative Post Dates": true,
+    "Relative Date Title": true,
+    "Comment Expansion": true,
+    "File Info Formatting": true,
+    "Thread Expansion": true,
+    "Index Navigation": false,
+    "Reply Navigation": false,
+    "Custom Board Titles": true,
+    "Persistent Custom Board Titles": true,
+    "Show Updated Notifications": true,
+    "Color User IDs": true,
+    "Count Posts by ID": true,
+    "Remove Spoilers": false,
+    "Reveal Spoilers": false,
+    "Normalize URL": true,
+    "Disable Autoplaying Sounds": false,
+    "Disable Native Extension": true,
+    "Enable Native Flash Embedding": true,
+    "Linkify": true,
+    "Link Title": true,
+    "Cover Preview": true,
+    "Embedding": true,
+    "Auto-embed": false,
+    "Floating Embeds": true,
+    "Anonymize": false,
+    "Filter": true,
+    "Filtered Backlinks": true,
+    "Recursive Hiding": true,
+    "Thread Hiding Buttons": true,
+    "Reply Hiding Buttons": true,
+    "Stubs": true,
+    "Image Expansion": true,
+    "Image Hover": true,
+    "Image Hover in Catalog": true,
+    "Gallery": true,
+    "Fullscreen Gallery": false,
+    "PDF in Gallery": false,
+    "Sauce": true,
+    "WEBM Metadata": true,
+    "Reveal Spoiler Thumbnails": false,
+    "Replace GIF": false,
+    "Replace JPG": false,
+    "Replace PNG": false,
+    "Replace WEBM": false,
+    "Image Prefetching": false,
+    "Fappe Tyme": false,
+    "Werk Tyme": false,
+    "Autoplay": true,
+    "Restart when Opened": false,
+    "Show Controls": true,
+    "Click Passthrough": false,
+    "Allow Sound": true,
+    "Mouse Wheel Volume": true,
+    "Loop in New Tab": true,
+    "Volume in New Tab": true,
+    "Use Faster Image Host": true,
+    "Menu": true,
+    "Report Link": true,
+    "Copy Text Link": true,
+    "Thread Hiding Link": true,
+    "Reply Hiding Link": true,
+    "Delete Link": true,
+    "Archive Link": true,
+    "Edit Link": true,
+    "Download Link": true,
+    "Thread Updater": true,
+    "Unread Count": true,
+    "Quoted Title": false,
+    "Hide Unread Count at (0)": false,
+    "Unread Favicon": true,
+    "Unread Line": true,
+    "Remember Last Read Post": true,
+    "Scroll to Last Read Post": true,
+    "Unread Line in Index": false,
+    "Remove Thread Excerpt": false,
+    "Thread Stats": true,
+    "IP Count in Stats": true,
+    "Page Count in Stats": true,
+    "Updater and Stats in Header": true,
+    "Thread Watcher": true,
+    "Fixed Thread Watcher": true,
+    "Persistent Thread Watcher": false,
+    "Mark New IPs": true,
+    "Reply Pruning": true,
+    "Prune All Threads": false,
+    "Quick Reply": true,
+    "Persistent QR": false,
+    "Auto Hide QR": true,
+    "Open Post in New Tab": true,
+    "Remember QR Size": false,
+    "Remember Spoiler": false,
+    "Randomize Filename": false,
+    "Show New Thread Option in Threads": false,
+    "Show Upload Progress": true,
+    "Cooldown": true,
+    "Posting Success Notifications": true,
+    "Auto-load captcha": false,
+    "Post on Captcha Completion": false,
+    "Captcha Fixes": true,
+    "Force Noscript Captcha": false,
+    "Pass Link": false,
+    "Quote Backlinks": true,
+    "OP Backlinks": true,
+    "Bottom Backlinks": false,
+    "Quote Inlining": true,
+    "Inline Cross-thread Quotes Only": true,
+    "Quote Hash Navigation": false,
+    "Forward Hiding": true,
+    "Quote Previewing": true,
+    "Quote Highlighting": true,
+    "Resurrect Quotes": true,
+    "Remember Your Posts": true,
+    "Mark Quotes of You": true,
+    "Highlight Posts Quoting You": true,
+    "Highlight Own Posts": true,
+    "Mark OP Quotes": true,
+    "Mark Cross-thread Quotes": true,
+    "Quote Threading": true,
+    "Fit width": true,
+    "Fit height": true,
+    "Scroll into view": true,
+    "Expand spoilers": true,
+    "Expand videos": true,
+    "Expand from here": false,
+    "Expand thread only": false,
+    "Advance on contract": false,
+    "Hide Thumbnails": false,
+    "Fit Width": true,
+    "Fit Height": true,
+    "Stretch to Fit": false,
+    "Scroll to Post": true,
+    "Slide Delay": 6,
+    "Default Volume": 0.4873915716139602,
+    "Current Board": false,
+    "Auto Update Thread Watcher": true,
+    "Auto Watch": false,
+    "Auto Watch Reply": false,
+    "Auto Prune": false,
+    "Show Page": true,
+    "Show Unread Count": true,
+    "Show Site Prefix": true,
+    "Require OP Quote Link": true,
+    "general": "",
+    "postID": "# Highlight dubs on [s4s]:\n#/(\\d)\\1$/;highlight;top:no;boards:s4s",
+    "name": "# Filter any namefags:\n#/^(?!Anonymous$)/",
+    "uniqueID": "# Filter a specific ID:\n#/Txhvk1Tl/",
+    "tripcode": "# Filter any tripfag\n#/^!/",
+    "capcode": "# Set a custom class for mods:\n#/Mod$/;highlight:mod;op:yes\n# Set a custom class for admins:\n#/Admin$/;highlight:admin;op:yes",
+    "pass": "# Filter anyone using since4pass:\n#/./",
+    "email": "",
+    "subject": "# Filter Generals on /v/:\n#/general/i;boards:v;op:only",
+    "comment": "# Filter Stallman copypasta on /g/:\n#/what you're refer+ing to as linux/i;boards:g\n# Filter posts with 20 or more quote links:\n#/(?:>>\\d(?:(?!>>\\d)[^])*){20}/\n# Filter posts like T H I S / H / I / S:\n#/^>?\\s?\\w\\s?(\\w)\\s?(\\w)\\s?(\\w).*$[\\s>]+\\1[\\s>]+\\2[\\s>]+\\3/im",
+    "flag": "",
+    "filename": "",
+    "dimensions": "# Highlight potential wallpapers:\n#/1920x1080/;op:yes;highlight;top:no;boards:w,wg",
+    "filesize": "",
+    "MD5": "/wRCs+0paX5jbYVWGn+Z16A==/",
+    "sauces": "# Reverse image search:\nhttps://www.google.com/searchbyimage?image_url=%IMG&safe=off\nhttps://yandex.com/images/search?rpt=imageview&img_url=%IMG\n#//tineye.com/search?url=%IMG\n#//www.bing.com/images/search?q=imgurl:%IMG&view=detailv2&iss=sbi#enterInsights\n\n# Specialized reverse image search:\n//iqdb.org/?url=%IMG\nhttps://trace.moe/?auto&url=%IMG;text:wait\n#//3d.iqdb.org/?url=%IMG\n#//saucenao.com/search.php?url=%IMG\n\n# \"View Same\" in archives:\nhttp://eye.swfchan.com/search/?q=%name;types:swf\n#https://desuarchive.org/_/search/image/%sMD5/\n#https://archive.4plebs.org/_/search/image/%sMD5/\n#https://boards.fireden.net/_/search/image/%sMD5/\n#https://foolz.fireden.net/_/search/image/%sMD5/\n\n# Other tools:\n#http://exif.regex.info/exif.cgi?imgurl=%URL\n#//imgops.com/%URL;types:gif,jpg,png\n#//www.gif-explode.com/%URL;types:gif\n\n# Known filename formats:\nhttp://www.pixiv.net/member_illust.php?mode=medium&illust_id=%$1;regexp:/^(\\d+)_p\\d+/\n//www.deviantart.com/gallery/#/d%$1%$2;regexp:/^\\w+_by_\\w+[_-]d([\\da-z]{6})\\b|^d([\\da-z]{6})-[\\da-z]{8}-/\n//imgur.com/%$1;regexp:/^(?![a-zA-Z][a-z]{6})(?![A-Z]{7})(?!\\d{7})([\\da-zA-Z]{7})(?: \\(\\d+\\))?\\.\\w+$/\nhttp://flickr.com/photo.gne?id=%$1;regexp:/^(\\d+)_[\\da-f]{10}(?:_\\w)*\\b/\nhttps://www.facebook.com/photo.php?fbid=%$1;regexp:/^\\d+_(\\d+)_\\d+_[no]\\b/",
+    "werk": false,
+    "Custom CSS": true,
+    "Index Mode": "catalog",
+    "Previous Index Mode": "all pages",
+    "Index Size": "small",
+    "Show Replies": true,
+    "Catalog Hover Expand": false,
+    "Catalog Hover Toggle": false,
+    "Pin Watched Threads": true,
+    "Anchor Hidden Threads": true,
+    "Refreshed Navigation": false,
+    "Fixed Header": false,
+    "Header auto-hide": false,
+    "Header auto-hide on scroll": false,
+    "Bottom Header": false,
+    "Centered links": false,
+    "Header catalog links": false,
+    "Bottom Board List": true,
+    "Shortcut Icons": true,
+    "Custom Board Navigation": true,
+    "archiveLists": "https://mayhemydg.github.io/archives.json/archives.json",
+    "lastarchivecheck": 1519172123061,
+    "archiveAutoUpdate": false,
+    "boardnav": "[toggle-all] a-full c-full ck-full e-full g-full gif-full h-full ic-full jp-full v-full vg-full vp-full w-full wg-full wsg-full",
+    "QR.personas": "#options:\"sage\";boards:jp;always",
+    "sjisPreview": false,
+    "jsWhitelist": "http://s.4cdn.org\nhttps://s.4cdn.org\nhttp://www.google.com\nhttps://www.google.com\nhttps://www.gstatic.com\nhttp://cdn.mathjax.org\nhttps://cdn.mathjax.org\n'self'\n'unsafe-inline'\n'unsafe-eval'\n\n# Banner ads\n#http://s.zkcdn.net/ados.js\n#https://s.zkcdn.net/ados.js\n#http://engine.4chan-ads.org\n#https://engine.4chan-ads.org\n\nhttps://cdnjs.cloudflare.com",
+    "captchaLanguage": "",
+    "time": "%d %B %Y %H:%M",
+    "timeLocale": "",
+    "backlink": ">>%id",
+    "pastedname": "file",
+    "fileInfo": "%n, %s, %r,",
+    "favicon": "ferongr",
+    "usercss": "/* Board title rice */\ndiv.boardTitle {\n  font-weight: 400 !important;\n}\n:root.yotsuba div.boardTitle {\n  font-family: Roboto !important;\n  text-shadow: 1px 1px 1px rgba(100,0,0,0.6);\n}\n:root.yotsuba-b div.boardTitle {\n  font-family: Roboto !important;\n  text-shadow: 1px 1px 1px rgba(105,10,15,0.6);\n}\n:root.photon div.boardTitle {\n  font-family: Roboto !important;\n  text-shadow: 1px 1px 1px rgba(0,74,153,0.6);\n}\n:root.tomorrow div.boardTitle {\n  font-family: Roboto !important;\n  text-shadow: 1px 1px 1px rgba(167,170,168,0.6);\n}",
+    "Toggle board list": "Ctrl+b",
+    "Toggle header": "Shift+h",
+    "Open empty QR": "q",
+    "Open QR": "Shift+q",
+    "Open settings": "Alt+o",
+    "Close": "Esc",
+    "Spoiler tags": "Ctrl+s",
+    "Code tags": "Alt+c",
+    "Eqn tags": "Alt+e",
+    "Math tags": "Alt+m",
+    "SJIS tags": "Alt+a",
+    "Toggle sage": "Alt+s",
+    "Toggle Cooldown": "Alt+Comma",
+    "Post from URL": "Alt+l",
+    "Add new post": "Alt+n",
+    "Submit QR": "Ctrl+Enter",
+    "Watch": "w",
+    "Update": "r",
+    "Update thread watcher": "Shift+r",
+    "Toggle thread watcher": "t",
+    "Toggle threading": "Shift+t",
+    "Mark thread read": "Ctrl+0",
+    "Expand image": "Shift+e",
+    "Expand images": "e",
+    "Open Gallery": "g",
+    "Next Gallery Image": "Right",
+    "Previous Gallery Image": "Left",
+    "Advance Gallery": "Enter",
+    "Pause": "p",
+    "Slideshow": "Ctrl+Right",
+    "fappeTyme": "f",
+    "werkTyme": "Shift+w",
+    "Front page": "1",
+    "Open front page": "Shift+1",
+    "Next page": "Ctrl+Right",
+    "Previous page": "Ctrl+Left",
+    "Paged mode": "Alt+1",
+    "Infinite scrolling mode": "Alt+2",
+    "All pages mode": "Alt+3",
+    "Open catalog": "Shift+c",
+    "Search form": "Ctrl+Alt+s",
+    "Cycle sort type": "Alt+x",
+    "Next thread": "Ctrl+Down",
+    "Previous thread": "Ctrl+Up",
+    "Expand thread": "Ctrl+e",
+    "Open thread": "o",
+    "Open thread tab": "Shift+o",
+    "Next reply": "j",
+    "Previous reply": "k",
+    "Deselect reply": "Shift+d",
+    "Hide": "x",
+    "Quick Filter MD5": "5",
+    "Previous Post Quoting You": "Alt+Up",
+    "Next Post Quoting You": "Alt+Down",
+    "Beep": false,
+    "Beep Quoting You": false,
+    "Auto Scroll": false,
+    "Bottom Scroll": false,
+    "Scroll BG": false,
+    "Auto Update": true,
+    "Optional Increase": false,
+    "Interval": 30,
+    "customCooldown": 0,
+    "customCooldownEnabled": true,
+    "Thread Quotes": true,
+    "Max Replies": 1000,
+    "Autohiding Scrollbar": false,
+    "Chromium CORB Bug": false,
+    "embedding.position": "top: 50px; right: 0px;",
+    "thread-stats.position": "bottom: 0px; right: 0px;",
+    "updater.position": "bottom: 0px; left: 0px;",
+    "thread-watcher.position": "top: 30.2357%; left: 68.1744%;",
+    "qr.position": "right: 0px; bottom: 26.4167px;",
+    "hiddenThreads": {
+      "4chan.org": {
+        "boards": {},
+        "lastChecked": 1518036859059
+      }
+    },
+    "hiddenPosts": {
+      "4chan.org": {
+        "boards": {},
+        "lastChecked": 1482350399786
+      }
+    },
+    "lastReadPosts": {
+      "version": 2235,
+      "4chan.org": {
+        "boards": {
+          "a": {
+            "189663692": 189712493,
+            "189672373": 189726123,
+            "189682444": 189684915,
+            "189711574": 189726349,
+            "189727133": 189733136,
+            "189732077": 189733144,
+            "189735046": 189737052,
+            "189735361": 189737047,
+            "189735921": 189762880,
+            "189760705": 189774371,
+            "189790157": 189795172,
+            "189791101": 189832194,
+            "189797266": 189822417,
+            "189803922": 189805012,
+            "189805216": 189805520,
+            "189811194": 189811610,
+            "189811292": 189831382,
+            "189816289": 189816289,
+            "189826645": 189833384,
+            "189838229": 189888745,
+            "189872607": 189889533,
+            "189873936": 189921377,
+            "189877240": 189890038,
+            "189886497": 189894487,
+            "189887589": 189918272,
+            "189894584": 189895794,
+            "189897243": 189897322,
+            "189900952": 189920337,
+            "189900986": 189920137,
+            "189904634": 189920339,
+            "189905720": 189910181,
+            "189907352": 189911634,
+            "189910485": 189920464,
+            "189911237": 189919939,
+            "189917038": 189920387,
+            "189917223": 189920384,
+            "189919413": 189920381,
+            "189923443": 189923489,
+            "190099722": 190115084
+          },
+          "jp": {
+            "21446647": 21598099,
+            "21569369": 21590715,
+            "21571022": 21580979,
+            "21593603": 21598661
+          }
+        },
+        "lastChecked": 1562187064829
+      }
+    },
+    "yourPosts": {
+      "4chan.org": {
+        "boards": {
+          "jp": {
+            "21446647": {
+              "21501031": true,
+              "21503281": true,
+              "21503474": true,
+              "21539001": true
+            },
+            "21569369": {
+              "21586913": true
+            },
+            "21571022": {
+              "21576565": true
+            }
+          },
+          "a": {
+            "189797266": {
+              "189816458": true
+            },
+            "189873936": {
+              "189920645": true
+            },
+            "189887589": {
+              "189887589": true
+            }
+          }
+        },
+        "lastChecked": 1562187064814
+      },
+      "version": 22
+    },
+    "watchedThreads": {
+      "version": 403,
+      "4chan.org": {
+        "boards": {
+          "wg": {
+            "7203524": {
+              "excerpt": "/wg/ - /html-css/ HTML-CSS General #16",
+              "isDead": true,
+              "quotingYou": false
+            }
+          }
+        },
+        "lastChecked": 1529530177366
+      },
+      "lastChecked": 1562187369693,
+      "lastChecked2": 1562187065002
+    },
+    "watcherLastModified": {
+      "4chan.org": {
+        "boards": {
+          "wg": {
+            "https://a.4cdn.org/wg/threads.json": "Mon, 03 Jun 2019 10:08:55 GMT"
+          }
+        }
+      },
+      "version": 10
+    },
+    "customTitles": {
+      "version": 2,
+      "4chan.org": {
+        "boards": {
+          "a": {
+            "boardTitle": {
+              "title": "まんが manga\n      ",
+              "orig": "/a/ - Anime & Manga"
+            }
+          },
+          "wg": {
+            "boardTitle": {
+              "title": " かべがみ walls",
+              "orig": "/wg/ - Wallpapers/General"
+            }
+          },
+          "vg": {
+            "boardTitle": {
+              "title": " ふつう general ",
+              "orig": "/vg/ - Video Game Generals"
+            }
+          },
+          "e": {
+            "boardTitle": {
+              "title": "エッチ ECCHI",
+              "orig": "/e/ - Ecchi"
+            }
+          },
+          "c": {
+            "boardTitle": {
+              "title": "かわい cute",
+              "orig": "/c/ - Anime/Cute"
+            }
+          },
+          "jp": {
+            "boardTitle": {
+              "title": " オタク otaku",
+              "orig": "/jp/ - Otaku Culture"
+            }
+          },
+          "gif": {
+            "boardTitle": {
+              "title": "ポルノ porn",
+              "orig": "/gif/ - Adult GIF"
+            }
+          },
+          "ck": {
+            "boardTitle": {
+              "title": " しょくひん FOOD",
+              "orig": "/ck/ - Food & Cooking"
+            }
+          },
+          "ic": {
+            "boardTitle": {
+              "title": " びじゅつ Art",
+              "orig": "/ic/ - Artwork/Critique"
+            }
+          },
+          "g": {
+            "boardTitle": {
+              "title": " ぎじゅつ windows",
+              "orig": "/g/ - Technology"
+            }
+          },
+          "wsg": {
+            "boardTitle": {
+              "title": "だいじょうぶ gif",
+              "orig": "/wsg/ - Worksafe GIF"
+            }
+          },
+          "v": {
+            "boardTitle": {
+              "title": "テレビゲーム GAMES",
+              "orig": "/v/ - Video Games"
+            }
+          },
+          "h": {
+            "boardTitle": {
+              "title": " へんたい doujin",
+              "orig": "/h/ - Hentai"
+            }
+          },
+          "vp": {
+            "boardTitle": {
+              "title": "ポケットモンスター Pokémon",
+              "orig": "/vp/ - Pokémon"
+            }
+          },
+          "w": {
+            "boardTitle": {
+              "title": "アニメ anime",
+              "orig": "/w/ - Anime/Wallpapers"
+            }
+          }
+        }
+      }
+    },
+    "archives": [
+      {
+        "uid": 3,
+        "name": "4plebs",
+        "domain": "archive.4plebs.org",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "adv",
+          "f",
+          "hr",
+          "o",
+          "pol",
+          "s4s",
+          "sp",
+          "tg",
+          "trv",
+          "tv",
+          "x"
+        ],
+        "files": [
+          "adv",
+          "f",
+          "hr",
+          "o",
+          "pol",
+          "s4s",
+          "sp",
+          "tg",
+          "trv",
+          "tv",
+          "x"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 4,
+        "name": "Nyafuu Archive",
+        "domain": "archive.nyafuu.org",
+        "http": false,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "bant",
+          "c",
+          "e",
+          "n",
+          "news",
+          "out",
+          "p",
+          "toy",
+          "vip",
+          "vp",
+          "w",
+          "wg",
+          "wsr"
+        ],
+        "files": [
+          "bant",
+          "c",
+          "e",
+          "n",
+          "news",
+          "out",
+          "p",
+          "toy",
+          "vip",
+          "vp",
+          "w",
+          "wg",
+          "wsr"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 5,
+        "name": "Love is Over",
+        "domain": "archive.loveisover.me",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "c",
+          "d",
+          "e",
+          "i",
+          "lgbt",
+          "t",
+          "u"
+        ],
+        "files": [
+          "c",
+          "d",
+          "e",
+          "i",
+          "lgbt",
+          "t",
+          "u"
+        ]
+      },
+      {
+        "uid": 8,
+        "name": "Rebecca Black Tech",
+        "domain": "archive.rebeccablacktech.com",
+        "http": false,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "cgl",
+          "g",
+          "mu"
+        ],
+        "files": [
+          "cgl",
+          "g",
+          "mu"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 10,
+        "name": "warosu",
+        "domain": "warosu.org",
+        "http": false,
+        "https": true,
+        "software": "fuuka",
+        "boards": [
+          "3",
+          "biz",
+          "cgl",
+          "ck",
+          "diy",
+          "fa",
+          "g",
+          "ic",
+          "jp",
+          "lit",
+          "sci",
+          "tg",
+          "vr"
+        ],
+        "files": [
+          "3",
+          "biz",
+          "cgl",
+          "ck",
+          "diy",
+          "fa",
+          "g",
+          "ic",
+          "jp",
+          "lit",
+          "sci",
+          "tg",
+          "vr"
+        ]
+      },
+      {
+        "uid": 23,
+        "name": "Desuarchive",
+        "domain": "desuarchive.org",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "a",
+          "aco",
+          "an",
+          "c",
+          "co",
+          "d",
+          "fit",
+          "gif",
+          "his",
+          "int",
+          "k",
+          "m",
+          "mlp",
+          "qa",
+          "r9k",
+          "tg",
+          "trash",
+          "vr",
+          "wsg"
+        ],
+        "files": [
+          "a",
+          "aco",
+          "an",
+          "c",
+          "co",
+          "d",
+          "fit",
+          "gif",
+          "his",
+          "int",
+          "k",
+          "m",
+          "mlp",
+          "qa",
+          "r9k",
+          "tg",
+          "trash",
+          "vr",
+          "wsg"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 24,
+        "name": "fireden.net",
+        "domain": "boards.fireden.net",
+        "http": false,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "a",
+          "cm",
+          "ic",
+          "sci",
+          "tg",
+          "v",
+          "vg",
+          "y"
+        ],
+        "files": [
+          "a",
+          "cm",
+          "ic",
+          "sci",
+          "tg",
+          "v",
+          "vg",
+          "y"
+        ]
+      },
+      {
+        "uid": 25,
+        "name": "arch.b4k.co",
+        "domain": "arch.b4k.co",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "g",
+          "jp",
+          "mlp",
+          "v"
+        ],
+        "files": []
+      },
+      {
+        "uid": 28,
+        "name": "bstats",
+        "domain": "archive.b-stats.org",
+        "http": false,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "f",
+          "cm",
+          "hm",
+          "lgbt",
+          "news",
+          "qst",
+          "trash",
+          "y"
+        ],
+        "files": []
+      },
+      {
+        "uid": 29,
+        "name": "Archived.Moe",
+        "domain": "archived.moe",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "3",
+          "a",
+          "aco",
+          "adv",
+          "an",
+          "asp",
+          "b",
+          "bant",
+          "biz",
+          "c",
+          "can",
+          "cgl",
+          "ck",
+          "cm",
+          "co",
+          "cock",
+          "d",
+          "diy",
+          "e",
+          "f",
+          "fa",
+          "fap",
+          "fit",
+          "fitlit",
+          "g",
+          "gd",
+          "gif",
+          "h",
+          "hc",
+          "his",
+          "hm",
+          "hr",
+          "i",
+          "ic",
+          "int",
+          "jp",
+          "k",
+          "lgbt",
+          "lit",
+          "m",
+          "mlp",
+          "mlpol",
+          "mo",
+          "mtv",
+          "mu",
+          "n",
+          "news",
+          "o",
+          "out",
+          "outsoc",
+          "p",
+          "po",
+          "pol",
+          "qa",
+          "qst",
+          "r",
+          "r9k",
+          "s",
+          "s4s",
+          "sci",
+          "soc",
+          "sp",
+          "spa",
+          "t",
+          "tg",
+          "toy",
+          "trash",
+          "trv",
+          "tv",
+          "u",
+          "v",
+          "vg",
+          "vint",
+          "vip",
+          "vp",
+          "vr",
+          "w",
+          "wg",
+          "wsg",
+          "wsr",
+          "x",
+          "y"
+        ],
+        "files": [
+          "can",
+          "cock",
+          "fap",
+          "fitlit",
+          "gd",
+          "mlpol",
+          "mo",
+          "mtv",
+          "outsoc",
+          "po",
+          "qst",
+          "spa",
+          "vint",
+          "vip"
+        ],
+        "search": [
+          "aco",
+          "adv",
+          "an",
+          "asp",
+          "b",
+          "bant",
+          "c",
+          "can",
+          "cgl",
+          "ck",
+          "cm",
+          "cock",
+          "con",
+          "d",
+          "diy",
+          "e",
+          "f",
+          "fap",
+          "fitlit",
+          "gd",
+          "gif",
+          "h",
+          "hc",
+          "his",
+          "hm",
+          "hr",
+          "i",
+          "ic",
+          "lgbt",
+          "lit",
+          "mlpol",
+          "mo",
+          "mtv",
+          "n",
+          "news",
+          "o",
+          "out",
+          "outsoc",
+          "p",
+          "po",
+          "q",
+          "qa",
+          "qst",
+          "r",
+          "s",
+          "soc",
+          "spa",
+          "trv",
+          "u",
+          "vint",
+          "vip",
+          "w",
+          "wg",
+          "wsg",
+          "wsr",
+          "x",
+          "y"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 30,
+        "name": "TheBArchive.com",
+        "domain": "thebarchive.com",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "b",
+          "bant"
+        ],
+        "files": [
+          "b",
+          "bant"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 31,
+        "name": "Archive Of Sins",
+        "domain": "archiveofsins.com",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "h",
+          "hc",
+          "hm",
+          "r",
+          "s",
+          "soc"
+        ],
+        "files": [
+          "h",
+          "hc",
+          "hm",
+          "r",
+          "s",
+          "soc"
+        ],
+        "reports": true
+      },
+      {
+        "uid": 33,
+        "name": "YEET Archive",
+        "domain": "archive.yeet.net",
+        "http": true,
+        "https": true,
+        "software": "foolfuuka",
+        "boards": [
+          "g",
+          "k",
+          "qa",
+          "s4s"
+        ],
+        "files": []
+      }
+    ],
+    "selectedArchives": {},
+    "cooldowns": {
+      "vg": {
+        "1512920272293": {
+          "threadID": 198195081,
+          "postID": 198242534
+        }
+      },
+      "h": {
+        "1513469137196": {
+          "threadID": 4824616,
+          "postID": 4828505
+        }
+      },
+      "v": {
+        "1514667861767": {
+          "threadID": 401661560,
+          "postID": 401687089
+        }
+      },
+      "w": {
+        "1517175723007": {
+          "threadID": 2063298,
+          "postID": 2064703
+        }
+      },
+      "wg": {
+        "1518732897253": {
+          "threadID": 7132897,
+          "postID": 7137875
+        }
+      },
+      "g": {
+        "1560255429438": {
+          "threadID": 71364467,
+          "postID": 71374688
+        }
+      },
+      "jp": {
+        "1561479797292": {
+          "threadID": 21569369,
+          "postID": 21586913
+        }
+      },
+      "a": {
+        "1561747079927": {
+          "threadID": 189873936,
+          "postID": 189920645
+        }
+      }
+    },
+    "Index Sort": {
+      "w": "lastreply",
+      "wg": "lastreply",
+      "a": "lastreply",
+      "v": "lastreply",
+      "g": "lastreply",
+      "vg": "lastreply",
+      "c": "lastreply"
+    },
+    "Last Long Reply Thresholds 0": {},
+    "Last Long Reply Thresholds 1": {},
+    "siteProperties": {
+      "4chan.org": {
+        "software": "yotsuba"
+      },
+      "4cdn.org": {
+        "software": "yotsuba"
+      },
+      "4channel.org": {
+        "software": "yotsuba"
+      }
+    },
+    "Except Archives from Encryption": false,
+    "JSON Navigation": true,
+    "Oekaki Links": true,
+    "Show Name and Subject": false,
+    "QR Shortcut": true,
+    "Bottom QR Link": true,
+    "Toggleable Thread Watcher": true,
+    "siteSoftware": "4channel.org yotsuba\n4chan.org yotsuba\n4cdn.org yotsuba"
+  }
+}
